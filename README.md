@@ -31,4 +31,4 @@ When provided with command-line arguments, the program should do the following:
     If -export EXPORT is passed, where EXPORT is the file name, write all cards that are in the program memory into this file after the user 
     has entered exit, and the last line of the output should be n cards have been saved., where n is the number of flashcards in the set.
 
-![](https://github.com/matt-eo88/_Flashcards_/blob/main/flashcards.mp4)
+![](flashcards.mp4)
